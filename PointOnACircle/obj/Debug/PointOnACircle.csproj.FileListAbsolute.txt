@@ -1,0 +1,9 @@
+C:\Users\matiwa\source\repos\PointOnACircle\PointOnACircle\obj\Debug\PointOnACircle.csprojAssemblyReference.cache
+C:\Users\matiwa\source\repos\PointOnACircle\PointOnACircle\obj\Debug\PointOnACircle.Form1.resources
+C:\Users\matiwa\source\repos\PointOnACircle\PointOnACircle\obj\Debug\PointOnACircle.Properties.Resources.resources
+C:\Users\matiwa\source\repos\PointOnACircle\PointOnACircle\obj\Debug\PointOnACircle.csproj.GenerateResource.cache
+C:\Users\matiwa\source\repos\PointOnACircle\PointOnACircle\obj\Debug\PointOnACircle.csproj.CoreCompileInputs.cache
+C:\Users\matiwa\source\repos\PointOnACircle\PointOnACircle\bin\Debug\PointOnACircle.exe
+C:\Users\matiwa\source\repos\PointOnACircle\PointOnACircle\bin\Debug\PointOnACircle.pdb
+C:\Users\matiwa\source\repos\PointOnACircle\PointOnACircle\obj\Debug\PointOnACircle.exe
+C:\Users\matiwa\source\repos\PointOnACircle\PointOnACircle\obj\Debug\PointOnACircle.pdb
